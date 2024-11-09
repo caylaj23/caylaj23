@@ -1,7 +1,8 @@
 
 <div align = "center">
   <div style= "height: 300 px; width: 300 px;">
-<img src = "https://i.gifer.com/origin/c0/c0ac17a2392acc77981747cabd2b538c_w200.gif"
+<img src = "https://i.pinimg.com/originals/d3/2e/d7/d32ed7c06e2bad6c4128f18adc815269.gif"
+  width="75%">
 </div>
 </div>
 
