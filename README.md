@@ -1,4 +1,6 @@
 
+# Hello and Welcome!
+
 <div align = "center">
   <div style= "height: 300 px; width: 300 px;">
 <img src = "https://i.pinimg.com/originals/d3/2e/d7/d32ed7c06e2bad6c4128f18adc815269.gif"
@@ -6,7 +8,7 @@
 </div>
 </div>
 
-## Hello and Welcome!
+
 I’m Cayla —an anime enthusiast, herbalist, and software engineer dedicated to creating positive change. With a strong passion for urban farming and coding, I spend my time building full-stack projects and exploring ways to support food security in my community. Whether I’m immersed in anime, herbalism, or writing code, I’m motivated by the impact technology and sustainable practices can have in uplifting communities. Thank you for stopping by, and I look forward to connecting!
 
 
