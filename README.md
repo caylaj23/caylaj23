@@ -6,7 +6,8 @@
 </div>
 </div>
 
-## Hello! I'm Cayla, I'm an anime fan with a passion for herbalism, urban farming and software engineering! When I'm not watching anime,  you'll find me working on ways to implement urban farming in my community or coding full-stack projects. I'm driven to use my skills to positively impact and uplift my community.
+## Hello and Welcome!
+I’m Cayla —an anime enthusiast, herbalist, and software engineer dedicated to creating positive change. With a strong passion for urban farming and coding, I spend my time building full-stack projects and exploring ways to support food security in my community. Whether I’m immersed in anime, herbalism, or writing code, I’m motivated by the impact technology and sustainable practices can have in uplifting communities. Thank you for stopping by, and I look forward to connecting!
 
 
 # Languages
