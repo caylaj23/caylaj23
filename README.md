@@ -1,12 +1,12 @@
 
-# Hello and Welcome!
+<div align="center">
+<h1>Hello and Welcome!</h1>
 
-<div align = "center">
   <div style= "height: 300 px; width: 300 px;">
 <img src = "https://i.pinimg.com/originals/d3/2e/d7/d32ed7c06e2bad6c4128f18adc815269.gif"
   width="75%">
 </div>
-</div>
+
 
 
 I’m Cayla —an anime enthusiast, herbalist, and software engineer dedicated to creating positive change. With a strong passion for urban farming and coding, I spend my time building full-stack projects and exploring ways to support food security in my community. Whether I’m immersed in anime, herbalism, or writing code, I’m motivated by the impact technology and sustainable practices can have in uplifting communities. Thank you for stopping by, and I look forward to connecting!
@@ -31,3 +31,4 @@ I’m Cayla —an anime enthusiast, herbalist, and software engineer dedicated t
     <img src="https://img.shields.io/badge/Bolero-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="Bolero">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </div>
+</div>
